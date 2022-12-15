@@ -9,7 +9,7 @@
 
 body {
   height: 100vh;
-  background-image: url("./img/bg.jpg");
+  background-image: url("./img/bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Roboto", sans-serif;
@@ -97,7 +97,7 @@ body {
 }
 
 .sidebar nav .nav-item.active {
-  background: #ff328e !important;
+  background: #87ceeb !important;
 }
 
 .sidebar nav .nav-item:hover {
